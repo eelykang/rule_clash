@@ -1,9 +1,9 @@
-# 个人想要切换连接的
+# 个人想要切换国外连接的
 DOMAIN-KEYWORD,scholar.google
 
 
 # DOMAIN-SUFFIX：域名后缀匹配
-# DOMAIN：域名匹配
+# DOMAIN：域名匹配国外
 # DOMAIN-KEYWORD：域名关键字匹配
 # IP-CIDR：IP段匹配
 # SRC-IP-CIDR：源IP段匹配
